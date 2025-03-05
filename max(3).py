@@ -1,0 +1,5 @@
+#a=int(input("first:"))
+#b=int(input("second:"))
+#c=int(input("third"))
+a,b,c=map(int,input().split())
+print(max(a,b,c))
