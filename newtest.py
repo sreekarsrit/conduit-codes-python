@@ -5,3 +5,4 @@ print ("your number is ",a) #int
 
 all=False
 print(type(all))
+print(a+13)
