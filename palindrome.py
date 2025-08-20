@@ -1,1 +1,1 @@
-n=int(input("5 dig number:"))
+# n=int(input("5 dig number:"))
